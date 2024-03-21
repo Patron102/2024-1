@@ -17,7 +17,7 @@ int main()
 	printf("4번 예제\n%d\n\n", age + 3);
 
 	//5번 예제
-	double num3 = 7 / 3;
+	float num3 = 7.0 / 3.0;
 	printf("5번 예제\n나눗셈 : %f\n\n", num3);
 
 	//6번 예제
