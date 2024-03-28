@@ -11,5 +11,4 @@ public class animal
     {
         Debug.Log($"{name} : {sound}");
     }
-
 }
