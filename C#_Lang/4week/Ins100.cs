@@ -13,6 +13,5 @@ public class Ins100 : MonoBehaviour
             prefab.GetComponent<Transform>().localScale = new Vector3(Random.Range(1, 10), Random.Range(1, 10), Random.Range(1, 10));
             Instantiate(prefab);
         }
-        
     }
 }
